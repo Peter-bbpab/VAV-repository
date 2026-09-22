@@ -1,0 +1,11 @@
+{
+    "products": [
+        {
+            "code": "001",
+            "name": "hamburguer",
+            "price": 18.5,
+            "stock": 25
+        }
+    ],
+    "orders": []
+}
