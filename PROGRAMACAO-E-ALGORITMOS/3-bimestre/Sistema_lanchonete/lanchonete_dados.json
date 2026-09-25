@@ -1,0 +1,57 @@
+{
+    "products": [
+        {
+            "code": "001",
+            "name": "X-Burguer",
+            "price": 15.0,
+            "stock": 20
+        },
+        {
+            "code": "002",
+            "name": "X-Salada",
+            "price": 17.0,
+            "stock": 20
+        },
+        {
+            "code": "003",
+            "name": "X-Bacon",
+            "price": 20.0,
+            "stock": 15
+        },
+        {
+            "code": "004",
+            "name": "X-Frango",
+            "price": 18.0,
+            "stock": 15
+        },
+        {
+            "code": "005",
+            "name": "Hot Dog",
+            "price": 12.0,
+            "stock": 20
+        },
+        {
+            "code": "006",
+            "name": "batata frita",
+            "price": 10.0,
+            "stock": 26
+        }
+    ],
+    "orders": [
+        {
+            "customer_name": "cadu",
+            "product_code": "005",
+            "product_name": "Hot Dog",
+            "quantity": 5,
+            "total": 60.0
+        },
+        {
+            "customer_name": "daniel",
+            "product_code": "006",
+            "product_name": "batata frita",
+            "quantity": 4,
+            "total": 40.0,
+            "date": "2026-09-24"
+        }
+    ]
+}
